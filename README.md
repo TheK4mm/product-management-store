@@ -71,21 +71,21 @@ Aplicación web fullstack para administrar el inventario de una tienda. Permite 
 
 ### Backend
 
-**Node.js + Express** Servidor y API REST
-**PostgreSQL + pg** Almacena usuarios y credenciales
-**MongoDB + Mongoose** Almacena los productos de la tienda
-**bcryptjs** Cifrado de contraseñas
-**jsonwebtoken** Autenticación por token JWT
-**express-validator** Validación de datos en cada endpoint
-**ExcelJS** Generación de archivos `.xlsx` con estilos
-**PDFKit** Generación de reportes `.pdf`
+**Node.js + Express**: Servidor y API REST
+**PostgreSQL + pg**: Almacena usuarios y credenciales
+**MongoDB + Mongoose**: Almacena los productos de la tienda
+**bcryptjs**: Cifrado de contraseñas
+**jsonwebtoken**: Autenticación por token JWT
+**express-validator**: Validación de datos en cada endpoint
+**ExcelJS**: Generación de archivos `.xlsx` con estilos
+**PDFKit**: Generación de reportes `.pdf`
 
 ### Frontend
 
-**React 18** Interfaz de usuario
-**React Router 6** Navegación y rutas protegidas
-**Axios** Comunicación con la API
-**react-hot-toast** Notificaciones visuales
+**React 18**: Interfaz de usuario
+**React Router 6**: Navegación y rutas protegidas
+**Axios**: Comunicación con la API
+**react-hot-toast**: Notificaciones visuales
 
 ---
 
