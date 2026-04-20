@@ -66,6 +66,7 @@ Aplicación web fullstack para administrar el inventario de una tienda. Permite 
 4. Desde el Dashboard visualiza estadísticas del inventario.
 5. Puede exportar toda la colección de productos en formato PDF o Excel.
 
+---
 
 ## Tecnologías utilizadas
 
